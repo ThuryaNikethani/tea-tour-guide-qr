@@ -1,0 +1,739 @@
+{
+  "stations": [
+    {
+      "id": "introduction",
+      "order": 1,
+      "verified": true,
+      "names": {
+        "en": "Introduction to Ceylon Tea",
+        "zh": "锡兰茶导览",
+        "ja": "セイロンティー入門",
+        "es": "Introducción al Té de Ceilán",
+        "fr": "Introduction au Thé de Ceylan",
+        "ru": "Введение в цейлонский чай",
+        "si": "සිලෝන් තේ හැඳින්වීම",
+        "ar": "مقدمة عن شاي سيلان",
+        "it": "Introduzione al Tè di Ceylon",
+        "de": "Einführung in Ceylon-Tee",
+        "ta": "இலங்கை தேயிலைக்கு அறிமுகம்"
+      }
+    },
+    {
+      "id": "pahatharata-manufacturing",
+      "order": 2,
+      "verified": true,
+      "names": {
+        "en": "Tea Manufacturing (Pahatharata)",
+        "zh": "低地茶制作（Pahatharata）",
+        "ja": "紅茶製造（パハタラタ）",
+        "es": "Fabricación de Té (Pahatharata)",
+        "fr": "Fabrication du Thé (Pahatharata)",
+        "ru": "Производство чая (Пахатарата)",
+        "si": "තේ නිෂ්පාදනය (පහත රට)",
+        "ar": "تصنيع الشاي (باهاتارتا)",
+        "it": "Lavorazione del Tè (Pahatharata)",
+        "de": "Teeherstellung (Pahatharata)",
+        "ta": "தேயிலை உற்பத்தி (பஹத்தரட)"
+      }
+    },
+    {
+      "id": "nursery",
+      "order": 3,
+      "verified": true,
+      "names": {
+        "en": "Tea Nursery",
+        "zh": "茶叶苗圃",
+        "ja": "茶の苗床",
+        "es": "Vivero de Té",
+        "fr": "Pépinière de Thé",
+        "ru": "Чайный питомник",
+        "si": "තේ තවාන",
+        "ar": "مشتل الشاي",
+        "it": "Vivaio del Tè",
+        "de": "Tee-Baumschule",
+        "ta": "தேயிலை நாற்றுமேடை"
+      }
+    },
+    {
+      "id": "clonal-tea",
+      "order": 4,
+      "verified": true,
+      "names": {
+        "en": "Clonal Tea",
+        "zh": "克隆茶",
+        "ja": "クローン茶",
+        "es": "Té Clonal",
+        "fr": "Thé Clonal",
+        "ru": "Клоновый чай",
+        "si": "ක්ලෝන තේ",
+        "ar": "الشاي المستنسخ",
+        "it": "Tè Clonale",
+        "de": "Klontee",
+        "ta": "குளோன் தேயிலை"
+      }
+    },
+    {
+      "id": "pruning",
+      "order": 5,
+      "verified": true,
+      "names": {
+        "en": "Pruning",
+        "zh": "修剪",
+        "ja": "剪定",
+        "es": "Poda",
+        "fr": "Taille",
+        "ru": "Обрезка",
+        "si": "කප්පාදුව",
+        "ar": "التقليم",
+        "it": "Potatura",
+        "de": "Beschneiden",
+        "ta": "கத்தரித்தல்"
+      }
+    },
+    {
+      "id": "cinnamon",
+      "order": 6,
+      "verified": true,
+      "names": {
+        "en": "Cinnamon Plantation",
+        "zh": "肉桂种植园",
+        "ja": "シナモン農園",
+        "es": "Plantación de Canela",
+        "fr": "Plantation de Cannelle",
+        "ru": "Плантация корицы",
+        "si": "කුරුඳු වගාව",
+        "ar": "مزرعة القرفة",
+        "it": "Piantagione di Cannella",
+        "de": "Zimtplantage",
+        "ta": "இலவங்கப்பட்டை தோட்டம்"
+      }
+    },
+    {
+      "id": "ginger-turmeric",
+      "order": 7,
+      "verified": true,
+      "names": {
+        "en": "Ginger Plantation",
+        "zh": "生姜种植园",
+        "ja": "ジンジャー農園",
+        "es": "Plantación de Jengibre",
+        "fr": "Plantation de Gingembre",
+        "ru": "Плантация имбиря",
+        "si": "ඉඟුරු වගාව",
+        "ar": "مزرعة الزنجبيل",
+        "it": "Piantagione di Zenzero",
+        "de": "Ingwerplantage",
+        "ta": "இஞ்சி தோட்டம்"
+      }
+    },
+    {
+      "id": "turmeric",
+      "order": 8,
+      "verified": true,
+      "names": {
+        "en": "Turmeric Plantation",
+        "zh": "姜黄种植园",
+        "ja": "ターメリック農園",
+        "es": "Plantación de Cúrcuma",
+        "fr": "Plantation de Curcuma",
+        "ru": "Плантация куркумы",
+        "si": "කහ වගාව",
+        "ar": "مزرعة الكركم",
+        "it": "Piantagione di Curcuma",
+        "de": "Kurkuma-Plantage",
+        "ta": "மஞ்சள் சாகுபடி"
+      }
+    },
+    {
+      "id": "sorting",
+      "order": 9,
+      "verified": true,
+      "names": {
+        "en": "Sorting & Grading",
+        "zh": "分级筛选",
+        "ja": "選別・格付け",
+        "es": "Clasificación y Graduación",
+        "fr": "Triage et Classification",
+        "ru": "Сортировка и калибровка",
+        "si": "වර්ග කිරීම හා ශ්‍රේණිගත කිරීම",
+        "ar": "الفرز والتصنيف",
+        "it": "Selezione e Classificazione",
+        "de": "Sortieren & Klassifizieren",
+        "ta": "வகைப்படுத்தல் மற்றும் தரப்படுத்தல்"
+      }
+    },
+    {
+      "id": "artisanal-tea-grades",
+      "order": 10,
+      "verified": true,
+      "names": {
+        "en": "Artisanal Tea Grades",
+        "zh": "手工精品茶",
+        "ja": "職人技の高級茶",
+        "es": "Tés Artesanales de Alta Gama",
+        "fr": "Thés Artisanaux d'Exception",
+        "ru": "Ремесленные сорта чая",
+        "si": "අත්කම් තේ ශ්‍රේණි",
+        "ar": "درجات الشاي الحرفي",
+        "it": "Tè Artigianali Pregiati",
+        "de": "Handwerkliche Teesorten",
+        "ta": "கைவினை தேயிலை தரங்கள்"
+      }
+    },
+    {
+      "id": "bee",
+      "order": 11,
+      "verified": true,
+      "names": {
+        "en": "Honeybees",
+        "zh": "蜜蜂",
+        "ja": "ミツバチ",
+        "es": "Abejas Melíferas",
+        "fr": "Abeilles Mellifères",
+        "ru": "Медоносные пчёлы",
+        "si": "මී මැස්සන්",
+        "ar": "نحل العسل",
+        "it": "Api",
+        "de": "Honigbienen",
+        "ta": "தேனீக்கள்"
+      }
+    },
+    {
+      "id": "organic-cultivation",
+      "order": 12,
+      "verified": true,
+      "names": {
+        "en": "Organic Tea Cultivation",
+        "zh": "有机茶种植",
+        "ja": "オーガニック茶栽培",
+        "es": "Cultivo de Té Orgánico",
+        "fr": "Culture de Thé Biologique",
+        "ru": "Органическое выращивание чая",
+        "si": "කාබනික තේ වගාව",
+        "ar": "زراعة الشاي العضوي",
+        "it": "Coltivazione di Tè Biologico",
+        "de": "Biologischer Teeanbau",
+        "ta": "இயற்கை தேயிலை சாகுபடி"
+      }
+    },
+    {
+      "id": "shade-management",
+      "order": 13,
+      "verified": true,
+      "names": {
+        "en": "Shade Tree Management",
+        "zh": "遮荫树管理",
+        "ja": "シェードツリー（日陰木）管理",
+        "es": "Gestión de Árboles de Sombra",
+        "fr": "Gestion des Arbres d'Ombrage",
+        "ru": "Управление затеняющими деревьями",
+        "si": "සෙවන ගස් කළමනාකරණය",
+        "ar": "إدارة أشجار التظليل",
+        "it": "Gestione degli Alberi d'Ombra",
+        "de": "Schattenbaum-Management",
+        "ta": "நிழல் மர மேலாண்மை"
+      }
+    },
+    {
+      "id": "unique-fruits",
+      "order": 14,
+      "verified": true,
+      "names": {
+        "en": "Unique Fruits of Sri Lanka",
+        "zh": "斯里兰卡特色水果",
+        "ja": "スリランカ固有の果物",
+        "es": "Frutas Únicas de Sri Lanka",
+        "fr": "Fruits Uniques du Sri Lanka",
+        "ru": "Уникальные фрукты Шри-Ланки",
+        "si": "ශ්‍රී ලංකාවේ අනන්‍ය පලතුරු",
+        "ar": "فواكه سريلانكا الفريدة",
+        "it": "Frutti Unici dello Sri Lanka",
+        "de": "Einzigartige Früchte Sri Lankas",
+        "ta": "இலங்கையின் தனித்துவமான பழங்கள்"
+      }
+    },
+    {
+      "id": "coconut-field",
+      "order": 15,
+      "verified": true,
+      "names": {
+        "en": "Coconut Field",
+        "zh": "椰园",
+        "ja": "ココナッツ畑",
+        "es": "Campo de Cocoteros",
+        "fr": "Champ de Cocotiers",
+        "ru": "Кокосовое поле",
+        "si": "පොල් වත්ත",
+        "ar": "حقل جوز الهند",
+        "it": "Campo di Cocco",
+        "de": "Kokosnussfeld",
+        "ta": "தென்னை வயல்"
+      }
+    },
+    {
+      "id": "plucking",
+      "order": 16,
+      "verified": true,
+      "names": {
+        "en": "Plucking",
+        "zh": "采摘",
+        "ja": "摘採",
+        "es": "Recolección",
+        "fr": "Cueillette",
+        "ru": "Сбор листьев",
+        "si": "නෙළීම",
+        "ar": "القطاف",
+        "it": "Raccolta",
+        "de": "Pflücken",
+        "ta": "பறித்தல்"
+      }
+    },
+    {
+      "id": "jaggery-palm",
+      "order": 17,
+      "verified": true,
+      "names": {
+        "en": "Jaggery Palm (Kithul)",
+        "zh": "基图尔糖棕（贾格里糖）",
+        "ja": "キトゥルヤシ（ジャガリー）",
+        "es": "Palma de Jaggery (Kithul)",
+        "fr": "Palmier à Jaggery (Kithul)",
+        "ru": "Пальма Джаггери (Китул)",
+        "si": "කිතුල් හකුරු",
+        "ar": "نخيل الجاجري (كيثول)",
+        "it": "Palma da Jaggery (Kithul)",
+        "de": "Jaggery-Palme (Kithul)",
+        "ta": "கிதுள் வெல்லம்"
+      }
+    },
+    {
+      "id": "tea-factory",
+      "order": 18,
+      "verified": true,
+      "names": {
+        "en": "The Tea Factory",
+        "zh": "茶厂",
+        "ja": "紅茶工場",
+        "es": "La Fábrica de Té",
+        "fr": "La Fabrique de Thé",
+        "ru": "Чайная фабрика",
+        "si": "තේ කර්මාන්තශාලාව",
+        "ar": "مصنع الشاي",
+        "it": "La Fabbrica del Tè",
+        "de": "Die Teefabrik",
+        "ta": "தேயிலை தொழிற்சாலை"
+      }
+    },
+    {
+      "id": "withering",
+      "order": 19,
+      "verified": true,
+      "names": {
+        "en": "Withering",
+        "zh": "萎凋",
+        "ja": "萎凋",
+        "es": "Marchitado",
+        "fr": "Flétrissage",
+        "ru": "Завяливание",
+        "si": "මැලවීම",
+        "ar": "الذبول",
+        "it": "Appassimento",
+        "de": "Welken",
+        "ta": "வதங்கல்"
+      }
+    },
+    {
+      "id": "rolling",
+      "order": 20,
+      "verified": true,
+      "names": {
+        "en": "Rolling",
+        "zh": "揉捻",
+        "ja": "揉捻",
+        "es": "Enrollado",
+        "fr": "Roulage",
+        "ru": "Скручивание",
+        "si": "රෝල් කිරීම",
+        "ar": "اللف",
+        "it": "Arrotolamento",
+        "de": "Rollen",
+        "ta": "உருட்டுதல்"
+      }
+    },
+    {
+      "id": "fermentation",
+      "order": 21,
+      "verified": true,
+      "names": {
+        "en": "Fermentation (Oxidation)",
+        "zh": "发酵（氧化）",
+        "ja": "発酵（酸化）",
+        "es": "Fermentación (Oxidación)",
+        "fr": "Fermentation (Oxydation)",
+        "ru": "Ферментация (окисление)",
+        "si": "පැසවීම (ඔක්සිකරණය)",
+        "ar": "التخمير (الأكسدة)",
+        "it": "Fermentazione (Ossidazione)",
+        "de": "Fermentation (Oxidation)",
+        "ta": "நொதித்தல் (ஆக்சிஜனேற்றம்)"
+      }
+    },
+    {
+      "id": "drying",
+      "order": 22,
+      "verified": true,
+      "names": {
+        "en": "Drying (Firing)",
+        "zh": "干燥（烘焙）",
+        "ja": "乾燥（火入れ）",
+        "es": "Secado (Tostado)",
+        "fr": "Séchage (Torréfaction)",
+        "ru": "Сушка (обжарка)",
+        "si": "වියලීම (පිලුස්සීම)",
+        "ar": "التجفيف (التحميص)",
+        "it": "Essiccazione (Tostatura)",
+        "de": "Trocknen (Darren)",
+        "ta": "உலர்த்துதல் (சுடுதல்)"
+      }
+    },
+    {
+      "id": "packing",
+      "order": 23,
+      "verified": true,
+      "names": {
+        "en": "Packing",
+        "zh": "包装",
+        "ja": "梱包",
+        "es": "Empaquetado",
+        "fr": "Emballage",
+        "ru": "Упаковка",
+        "si": "පැක් කිරීම",
+        "ar": "التعبئة",
+        "it": "Confezionamento",
+        "de": "Verpacken",
+        "ta": "பொதிசெய்தல்"
+      }
+    },
+    {
+      "id": "handmade-factory",
+      "order": 24,
+      "verified": true,
+      "names": {
+        "en": "Handmade Tea Factory",
+        "zh": "手工制茶坊",
+        "ja": "手作り紅茶工房",
+        "es": "Fábrica de Té Artesanal",
+        "fr": "Fabrique de Thé Artisanal",
+        "ru": "Фабрика ручного чая",
+        "si": "අත්කම් තේ කර්මාන්තශාලාව",
+        "ar": "مصنع الشاي اليدوي",
+        "it": "Fabbrica di Tè Artigianale",
+        "de": "Handgefertigte Teefabrik",
+        "ta": "கைவினை தேயிலை தொழிற்சாலை"
+      }
+    },
+    {
+      "id": "tea-center",
+      "order": 25,
+      "verified": true,
+      "names": {
+        "en": "Tea Center",
+        "zh": "茶叶中心",
+        "ja": "ティーセンター",
+        "es": "Centro del Té",
+        "fr": "Centre du Thé",
+        "ru": "Чайный центр",
+        "si": "තේ මධ්‍යස්ථානය",
+        "ar": "مركز الشاي",
+        "it": "Centro del Tè",
+        "de": "Teezentrum",
+        "ta": "தேயிலை மையம்"
+      }
+    },
+    {
+      "id": "polytunnel",
+      "order": 26,
+      "verified": true,
+      "names": {
+        "en": "Polytunnel & Greenhouse",
+        "zh": "塑料大棚与温室",
+        "ja": "ビニールハウスと温室",
+        "es": "Túnel de Cultivo e Invernadero",
+        "fr": "Tunnel de Culture et Serre",
+        "ru": "Тоннель и теплица",
+        "si": "පොලිටනල් සහ හරිතාගාරය",
+        "ar": "النفق البلاستيكي والبيت الزجاجي",
+        "it": "Serra e Tunnel Coltivazione",
+        "de": "Folientunnel & Gewächshaus",
+        "ta": "பாலிடன்னல் மற்றும் பசுமை இல்லம்"
+      }
+    },
+    {
+      "id": "mushroom-hut",
+      "order": 27,
+      "verified": true,
+      "names": {
+        "en": "Mushroom Hut",
+        "zh": "蘑菇棚",
+        "ja": "きのこ小屋",
+        "es": "Cabaña de Setas",
+        "fr": "Cabane à Champignons",
+        "ru": "Грибной домик",
+        "si": "බිම්මල් කුටිය",
+        "ar": "كوخ الفطر",
+        "it": "Capanna dei Funghi",
+        "de": "Pilzhütte",
+        "ta": "காளான் குடில்"
+      }
+    }
+  ],
+  "ui": {
+    "en": {
+      "appTitle": "Athukorala Tea Factory",
+      "tagline": "Experience the art of tea production from leaf to cup",
+      "changeLanguage": "Change Language",
+      "stationOf": "Station {current} of {total}",
+      "scanQrHint": "Scan the QR code at each station to jump straight to that stage.",
+      "draftLabel": "Draft",
+      "qrSheetTitle": "Station QR Codes",
+      "qrSheetSubtitle": "Print this page, cut out each card, and place it at the matching stage.",
+      "printButton": "Print",
+      "translationUnreviewed": "Machine-translated — not yet reviewed by a native speaker"
+    },
+    "zh": {
+      "appTitle": "阿图科拉拉茶厂",
+      "tagline": "体验从茶叶到茶杯的制茶艺术",
+      "changeLanguage": "更改语言",
+      "stationOf": "第 {current} 站，共 {total} 站",
+      "scanQrHint": "扫描每个站点的二维码，直接跳转到该阶段。",
+      "draftLabel": "草稿",
+      "qrSheetTitle": "站点二维码",
+      "qrSheetSubtitle": "打印此页面，剪下每张卡片，并将其放置在对应的阶段。",
+      "printButton": "打印",
+      "translationUnreviewed": "机器翻译——尚未经母语者审核"
+    },
+    "ja": {
+      "appTitle": "アトゥコララ紅茶工場",
+      "tagline": "茶葉からカップまで、紅茶製造の芸術を体験してください",
+      "changeLanguage": "言語の変更",
+      "stationOf": "ステーション {current} / {total}",
+      "scanQrHint": "各ステーションのQRコードをスキャンすると、そのステージに直接移動できます。",
+      "draftLabel": "下書き",
+      "qrSheetTitle": "ステーションQRコード",
+      "qrSheetSubtitle": "このページを印刷し、各カードを切り取って対応するステージに設置してください。",
+      "printButton": "印刷",
+      "translationUnreviewed": "機械翻訳 — ネイティブスピーカーによる確認はまだです"
+    },
+    "es": {
+      "appTitle": "Fábrica de Té Athukorala",
+      "tagline": "Experimente el arte de la producción de té, de la hoja a la taza",
+      "changeLanguage": "Cambiar Idioma",
+      "stationOf": "Estación {current} de {total}",
+      "scanQrHint": "Escanee el código QR en cada estación para ir directamente a esa etapa.",
+      "draftLabel": "Borrador",
+      "qrSheetTitle": "Códigos QR de las Estaciones",
+      "qrSheetSubtitle": "Imprima esta página, recorte cada tarjeta y colóquela en la etapa correspondiente.",
+      "printButton": "Imprimir",
+      "translationUnreviewed": "Traducción automática — aún no revisada por un hablante nativo"
+    },
+    "fr": {
+      "appTitle": "Usine de Thé Athukorala",
+      "tagline": "Découvrez l'art de la production de thé, de la feuille à la tasse",
+      "changeLanguage": "Changer de Langue",
+      "stationOf": "Station {current} sur {total}",
+      "scanQrHint": "Scannez le code QR à chaque station pour accéder directement à cette étape.",
+      "draftLabel": "Brouillon",
+      "qrSheetTitle": "Codes QR des Stations",
+      "qrSheetSubtitle": "Imprimez cette page, découpez chaque carte et placez-la à l'étape correspondante.",
+      "printButton": "Imprimer",
+      "translationUnreviewed": "Traduction automatique — pas encore vérifiée par un locuteur natif"
+    },
+    "ru": {
+      "appTitle": "Чайная фабрика Атукорала",
+      "tagline": "Познакомьтесь с искусством производства чая от листа до чашки",
+      "changeLanguage": "Сменить язык",
+      "stationOf": "Станция {current} из {total}",
+      "scanQrHint": "Отсканируйте QR-код на каждой станции, чтобы перейти прямо к этому этапу.",
+      "draftLabel": "Черновик",
+      "qrSheetTitle": "QR-коды станций",
+      "qrSheetSubtitle": "Распечатайте эту страницу, вырежьте каждую карточку и разместите её на соответствующем этапе.",
+      "printButton": "Печать",
+      "translationUnreviewed": "Машинный перевод — ещё не проверен носителем языка"
+    },
+    "si": {
+      "appTitle": "අතුකෝරළ තේ කර්මාන්තශාලාව",
+      "tagline": "තේ දලුවේ සිට කෝප්පය දක්වා තේ නිෂ්පාදන කලාව අත්විඳින්න",
+      "changeLanguage": "භාෂාව වෙනස් කරන්න",
+      "stationOf": "ස්ථානය {current} න් {total}",
+      "scanQrHint": "එම අදියරට කෙලින්ම යාමට එක් එක් ස්ථානයේ QR කේතය ස්කෑන් කරන්න.",
+      "draftLabel": "කෙටුම්පත",
+      "qrSheetTitle": "ස්ථාන QR කේත",
+      "qrSheetSubtitle": "මෙම පිටුව මුද්‍රණය කර, එක් එක් කාඩ්පත කපා, අදාළ අදියරේ තබන්න.",
+      "printButton": "මුද්‍රණය",
+      "translationUnreviewed": "යන්ත්‍ර පරිවර්තනයකි — දේශීය කථිකයෙකු විසින් තවම සමාලෝචනය කර නොමැත"
+    },
+    "ar": {
+      "appTitle": "مصنع أثوكورالا للشاي",
+      "tagline": "اختبر فن إنتاج الشاي من الورقة إلى الكوب",
+      "changeLanguage": "تغيير اللغة",
+      "stationOf": "المحطة {current} من {total}",
+      "scanQrHint": "امسح رمز QR في كل محطة للانتقال مباشرة إلى تلك المرحلة.",
+      "draftLabel": "مسودة",
+      "qrSheetTitle": "رموز QR للمحطات",
+      "qrSheetSubtitle": "اطبع هذه الصفحة، وقص كل بطاقة، وضعها في المرحلة المطابقة.",
+      "printButton": "طباعة",
+      "translationUnreviewed": "ترجمة آلية — لم تتم مراجعتها بعد من قبل متحدث أصلي"
+    },
+    "it": {
+      "appTitle": "Fabbrica di Tè Athukorala",
+      "tagline": "Scopri l'arte della produzione del tè dalla foglia alla tazzina",
+      "changeLanguage": "Cambia Lingua",
+      "stationOf": "Stazione {current} di {total}",
+      "scanQrHint": "Scansiona il codice QR di ogni stazione per passare direttamente a quella fase.",
+      "draftLabel": "Bozza",
+      "qrSheetTitle": "Codici QR delle Stazioni",
+      "qrSheetSubtitle": "Stampa questa pagina, ritaglia ogni scheda e posizionala nella fase corrispondente.",
+      "printButton": "Stampa",
+      "translationUnreviewed": "Traduzione automatica — non ancora rivista da un madrelingua"
+    },
+    "de": {
+      "appTitle": "Athukorala Tee-Fabrik",
+      "tagline": "Erleben Sie die Kunst der Tee-Produktion vom Blatt bis zur Tasse",
+      "changeLanguage": "Sprache ändern",
+      "stationOf": "Station {current} von {total}",
+      "scanQrHint": "Scannen Sie den QR-Code an jeder Station, um direkt zu dieser Phase zu springen.",
+      "draftLabel": "Entwurf",
+      "qrSheetTitle": "Stations-QR-Codes",
+      "qrSheetSubtitle": "Drucken Sie diese Seite aus, schneiden Sie jede Karte aus und platzieren Sie sie an der passenden Station.",
+      "printButton": "Drucken",
+      "translationUnreviewed": "Maschinell übersetzt — noch nicht von einem Muttersprachler geprüft"
+    },
+    "ta": {
+      "appTitle": "அத்துகோரள தேயிலை தொழிற்சாலை",
+      "tagline": "இலையிலிருந்து கோப்பை வரை தேயிலை உற்பத்தியின் கலையை அனுபவியுங்கள்",
+      "changeLanguage": "மொழியை மாற்றவும்",
+      "stationOf": "நிலையம் {current} / {total}",
+      "scanQrHint": "அந்த கட்டத்திற்கு நேரடியாகச் செல்ல ஒவ்வொரு நிலையத்திலும் உள்ள QR குறியீட்டை ஸ்கேன் செய்யவும்.",
+      "draftLabel": "வரைவு",
+      "qrSheetTitle": "நிலைய QR குறியீடுகள்",
+      "qrSheetSubtitle": "இந்தப் பக்கத்தை அச்சிட்டு, ஒவ்வொரு அட்டையையும் வெட்டி, பொருந்தும் கட்டத்தில் வைக்கவும்.",
+      "printButton": "அச்சிடு",
+      "translationUnreviewed": "இயந்திர மொழிபெயர்ப்பு — சொந்த மொழி பேசுபவரால் இன்னும் சரிபார்க்கப்படவில்லை"
+    }
+  },
+  "languages": [
+    {
+      "code": "en",
+      "nativeName": "English",
+      "englishName": "English",
+      "flag": "🇬🇧"
+    },
+    {
+      "code": "zh",
+      "nativeName": "中文",
+      "englishName": "Chinese",
+      "flag": "🇨🇳"
+    },
+    {
+      "code": "ja",
+      "nativeName": "日本語",
+      "englishName": "Japanese",
+      "flag": "🇯🇵"
+    },
+    {
+      "code": "es",
+      "nativeName": "Español",
+      "englishName": "Spanish",
+      "flag": "🇪🇸"
+    },
+    {
+      "code": "fr",
+      "nativeName": "Français",
+      "englishName": "French",
+      "flag": "🇫🇷"
+    },
+    {
+      "code": "ru",
+      "nativeName": "Русский",
+      "englishName": "Russian",
+      "flag": "🇷🇺"
+    },
+    {
+      "code": "si",
+      "nativeName": "සිංහල",
+      "englishName": "Sinhala",
+      "flag": "🇱🇰"
+    },
+    {
+      "code": "ar",
+      "nativeName": "العربية",
+      "englishName": "Arabic",
+      "flag": "🇸🇦",
+      "dir": "rtl"
+    },
+    {
+      "code": "it",
+      "nativeName": "Italiano",
+      "englishName": "Italian",
+      "flag": "🇮🇹"
+    },
+    {
+      "code": "de",
+      "nativeName": "Deutsch",
+      "englishName": "German",
+      "flag": "🇩🇪"
+    },
+    {
+      "code": "ta",
+      "nativeName": "தமிழ்",
+      "englishName": "Tamil",
+      "flag": "🇮🇳"
+    }
+  ],
+  "villa": {
+    "en": {
+      "name": "Kurunduwaththa Villa",
+      "tagline": "A stay on the tea estate at Kurunduwatta, Pitigala"
+    },
+    "zh": {
+      "name": "Kurunduwaththa Villa",
+      "tagline": "位于皮蒂加拉库伦杜瓦塔茶园庄园内的住宿"
+    },
+    "ja": {
+      "name": "Kurunduwaththa Villa",
+      "tagline": "ピティガラ、クルンドゥワッタの茶園内に佇む滞在先"
+    },
+    "es": {
+      "name": "Kurunduwaththa Villa",
+      "tagline": "Una estancia en la finca de té en Kurunduwatta, Pitigala"
+    },
+    "fr": {
+      "name": "Kurunduwaththa Villa",
+      "tagline": "Un séjour sur la plantation de thé à Kurunduwatta, Pitigala"
+    },
+    "ru": {
+      "name": "Kurunduwaththa Villa",
+      "tagline": "Проживание на чайной плантации в Курундувате, Питигала"
+    },
+    "si": {
+      "name": "Kurunduwaththa Villa",
+      "tagline": "පිටිගල, කුරුඳුවත්තේ තේ වත්තේ නවාතැනක්"
+    },
+    "ar": {
+      "name": "Kurunduwaththa Villa",
+      "tagline": "إقامة في مزرعة الشاي في كورونداواتا، بيتيغالا"
+    },
+    "it": {
+      "name": "Kurunduwaththa Villa",
+      "tagline": "Un soggiorno nella tenuta da tè a Kurunduwatta, Pitigala"
+    },
+    "de": {
+      "name": "Kurunduwaththa Villa",
+      "tagline": "Ein Aufenthalt auf der Teeplantage in Kurunduwatta, Pitigala"
+    },
+    "ta": {
+      "name": "Kurunduwaththa Villa",
+      "tagline": "பிட்டிகல, குருந்துவத்தையில் உள்ள தேயிலை தோட்டத்தில் தங்குமிடம்"
+    }
+  }
+}
